@@ -52,7 +52,6 @@ mutual-fund-overview-insights/
 └── requirements.txt
 ```
 
-*The structure above is the planned organization. Add each file to its corresponding folder when setting up the repository.*
 
 ## 🔍 Analysis Workflow
 
